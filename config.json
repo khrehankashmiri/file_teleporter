@@ -1,0 +1,39 @@
+{
+  "tabs": [
+    {
+      "id": "2dca7252-f117-4b5e-bb0f-87a537f22daf",
+      "name": "L1",
+      "path": "",
+      "operation": "copy_replace",
+      "history": []
+    },
+    {
+      "id": "628949ae-a766-4765-a2aa-f220bdb70120",
+      "name": "L2",
+      "path": "",
+      "operation": "copy_replace",
+      "history": []
+    },
+    {
+      "id": "715b2aa1-bfb3-4fbb-b4cc-6990f0fcd229",
+      "name": "L3",
+      "path": "",
+      "operation": "copy_replace",
+      "history": []
+    },
+    {
+      "id": "094e0902-beef-499b-9700-1fcd5046c2fb",
+      "name": "L4",
+      "path": "",
+      "operation": "copy_replace",
+      "history": []
+    },
+    {
+      "id": "8d511fc9-6020-453d-9b34-6ace51b338bc",
+      "name": "L5",
+      "path": "",
+      "operation": "copy_replace",
+      "history": []
+    }
+  ]
+}
